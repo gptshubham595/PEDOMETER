@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\build\\intermediates\\res\\merged\\release\\drawable_line40.png.flat",
+        "source": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\src\\main\\res\\drawable\\line40.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\build\\intermediates\\res\\merged\\release\\drawable_icon.png.flat",
+        "source": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\build\\intermediates\\res\\merged\\release\\xml_preferences.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_notification.png.flat",
+        "source": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\src\\main\\res\\drawable\\ic_notification.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\build\\intermediates\\res\\merged\\release\\layout_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

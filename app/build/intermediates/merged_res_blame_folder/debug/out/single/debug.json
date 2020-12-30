@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notification.png.flat",
+        "source": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\src\\main\\res\\drawable\\ic_notification.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_line40.png.flat",
+        "source": "D:\\AndroidStudioProjects\\android-pedometer-studio\\app\\src\\main\\res\\drawable\\line40.png"
+    }
+]

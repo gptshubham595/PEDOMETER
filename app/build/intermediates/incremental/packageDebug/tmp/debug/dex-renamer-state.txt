@@ -1,0 +1,4 @@
+#Wed Dec 30 17:36:06 IST 2020
+base.0=D\:\\AndroidStudioProjects\\android-pedometer-studio\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
